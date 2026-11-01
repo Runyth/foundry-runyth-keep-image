@@ -14,7 +14,8 @@ to a fresh wildcard roll each time.
 Runyth Keep Image is designed as the memory companion of
 [Runyth Cycle Token](https://github.com/Runyth/foundry-runyth-cycle-token), which cycles
 token images during play: with the memory, an actor that cycled through wildcard images
-keeps the image it wore last when a new token of that actor is placed. Foundry marks this
+keeps the image it wore last when a new token of that actor is placed. The declared
+relationship accepts Runyth Cycle Token 0.2.6 and later. Foundry marks this
 module inactive until the required companion module is installed and enabled.
 
 ## Features
