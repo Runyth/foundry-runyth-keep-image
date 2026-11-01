@@ -37,7 +37,7 @@ const requirements = manifest.relationships?.requires ?? [];
 assert(requirements.length === 1, "exactly one required module");
 assert(requirements[0].id === "runyth-cycle-token", "required companion module");
 assert(requirements[0].type === "module", "required module relationship type");
-assert(requirements[0].compatibility.minimum === "1.0.0", "required module minimum version");
+assert(requirements[0].compatibility.minimum === "0.2.6", "required module minimum version");
 
 assert(packageJson.name === manifest.id, "package name");
 assert(packageJson.version === version, "package version");

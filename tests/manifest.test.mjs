@@ -52,7 +52,7 @@ test("the companion module is Runyth Cycle Token", () => {
   assert.equal(requirements.length, 1);
   assert.equal(requirements[0].id, "runyth-cycle-token");
   assert.equal(requirements[0].type, "module");
-  assert.equal(requirements[0].compatibility.minimum, "1.0.0");
+  assert.equal(requirements[0].compatibility.minimum, "0.2.6");
 });
 
 test("package metadata agrees with the manifest", () => {

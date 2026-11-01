@@ -24,7 +24,7 @@
         "id": "runyth-cycle-token",
         "type": "module",
         "compatibility": {
-          "minimum": "1.0.0"
+          "minimum": "0.2.6"
         }
       }
     ]
