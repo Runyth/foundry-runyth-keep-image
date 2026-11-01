@@ -1,6 +1,6 @@
 {
   "name": "runyth-keep-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "type": "module",
   "description": "Development checks for Runyth Keep Image, which remembers the last concrete token image an actor cycled to and applies it again to that actor's next placed token.",

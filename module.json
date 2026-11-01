@@ -2,7 +2,7 @@
   "id": "runyth-keep-image",
   "title": "Runyth Keep Image",
   "description": "Remembers the last concrete token image an actor cycled to and applies it again when that actor's next token is placed.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -31,6 +31,6 @@
   },
   "url": "https://github.com/Runyth/foundry-runyth-keep-image",
   "manifest": "https://github.com/Runyth/foundry-runyth-keep-image/releases/latest/download/module.json",
-  "download": "https://github.com/Runyth/foundry-runyth-keep-image/releases/download/v1.0.0/runyth-keep-image-v1.0.0-mod.zip",
+  "download": "https://github.com/Runyth/foundry-runyth-keep-image/releases/download/v1.0.1/runyth-keep-image-v1.0.1-mod.zip",
   "changelog": "CHANGELOG.md"
 }
