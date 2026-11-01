@@ -1,0 +1,18 @@
+{
+  "id": "token-hud-last-image",
+  "title": "Token HUD Last Image",
+  "description": "Remembers the last concrete wildcard token image selected for an actor.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "OpenAI ChatGPT"
+    }
+  ],
+  "esmodules": [
+    "scripts/token-hud-last-image.js"
+  ]
+}
